@@ -6,7 +6,7 @@ PKG_VERSION:=1.0.20260329
 PKG_RELEASE:=1
 
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=https://github.com/amnezia-vpn/amneziawg-linux-kernel-module.git
+PKG_SOURCE_URL:=https://github.com/fviolence/amneziawg-linux-kernel-module.git
 # Version: latest stable release tag
 # TODO: при следующем обновлении убрать -2
 PKG_SOURCE_VERSION:=v$(PKG_VERSION)-2
